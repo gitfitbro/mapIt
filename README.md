@@ -1,8 +1,8 @@
-## MapIt 
+# MapIt 
 
-# Why not save a coulpe seconds out of your day?
+## Why not save a coulpe seconds out of your day?
 
-I am usually finding myself needing to copying addressing and needing to open them in google maps. Which are the following steps:
+I am usually finding myself needing to copying addresses and needing to open them in google maps. Which takes the following steps:
 
 * Highlight the address
 * Copy the address
